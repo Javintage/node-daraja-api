@@ -1,0 +1,14 @@
+{
+  "name": "daraja-api",
+  "version": "1.0.0",
+  "description": "mpesa daraja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mpesa"
+  ],
+  "author": "Javintage",
+  "license": "ISC"
+}
